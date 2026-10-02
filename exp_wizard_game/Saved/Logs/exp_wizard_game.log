@@ -2149,3 +2149,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.02-12.35.49:810][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 503699492
 [2026.10.02-12.35.49:810][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6.904607, Update Interval: 339.235199
 [2026.10.02-12.38.36:829][806]LogDerivedDataCache: C:/Users/jacob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.610 and deleted 14603 files with total size 196 MiB and 13831 empty folders. Scanned 30432 files in 30519 folders with total size 517 MiB.
+[2026.10.02-12.39.55:126][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
