@@ -8351,3 +8351,37 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.03-23.50.37:272][ 77]LogContentBrowser: Attempting asset rename: TutorialLevel1 -> TutorialBlockout
 [2026.10.03-23.50.37:277][ 77]LogChaosDD: Creating Chaos Debug Draw Scene for world TutorialBlockout
 [2026.10.03-23.50.37:281][ 77]LogContentBrowser: End creating deferred item TutorialLevel1
+[2026.10.03-23.51.24:368][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.10.03-23.51.25:464][733]LogSlate: Window 'Save Content' being destroyed
+[2026.10.03-23.51.25:473][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.03-23.51.25:534][733]LogFileHelpers: Saving Map: /Game/levels/TutorialBlockout
+[2026.10.03-23.51.25:537][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/TutorialBlockout] ([1] browsable assets)...
+[2026.10.03-23.51.25:537][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/TutorialBlockout]
+[2026.10.03-23.51.25:572][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.10.03-23.51.25:589][733]LogSavePackage: Moving output files for package: /Game/levels/TutorialBlockout
+[2026.10.03-23.51.25:589][733]LogSavePackage: Moving '../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Saved/TutorialBlockout904C481A4ACF72ABF6F432B74BCD182C.tmp' to '../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/TutorialBlockout.umap'
+[2026.10.03-23.51.25:608][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.995 ms (total: 6.17 sec)
+[2026.10.03-23.51.25:667][733]LogContentValidation: Enabled validators:
+[2026.10.03-23.51.25:667][733]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.03-23.51.25:667][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.03-23.51.25:667][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.03-23.51.25:667][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.03-23.51.25:667][733]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.03-23.51.25:667][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.03-23.51.25:667][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.03-23.51.25:667][733]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.03-23.51.25:667][733]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.03-23.51.25:667][733]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.03-23.51.25:667][733]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.03-23.51.25:667][733]AssetCheck: /Game/levels/TutorialBlockout Validating asset
+[2026.10.03-23.51.25:667][733]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.03-23.51.25:667][733]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.03-23.51.25:667][733]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.03-23.51.25:667][733]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.03-23.51.25:667][733]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.03-23.51.25:667][733]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.03-23.51.25:667][733]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.03-23.51.25:667][733]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.03-23.51.25:667][733]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.03-23.51.25:667][733]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.03-23.51.25:685][733]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Saved/SourceControl/UncontrolledChangelists.json
