@@ -11270,3 +11270,932 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.21-19.52.55:799][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
 [2026.10.21-19.52.55:861][779]LogPlayLevel: Display: Destroying online subsystem :Context_82
 [2026.10.21-19.52.57:187][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2026.10.21-19.53.39:027][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.21-19.53.39:029][548]LogStreaming: Display: FlushAsyncLoading(682): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.53.39:034][548]LogChaosDD: Creating Chaos Debug Draw Scene for world NewTutorialLevel1
+[2026.10.21-19.53.39:039][548]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/NewTutorialLevel1.NewTutorialLevel1
+[2026.10.21-19.53.39:039][548]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/NewTutorialLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.53.39:159][548]LogWorld: UWorld::CleanupWorld for Medium_Level6, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.53.39:159][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.53.39:204][548]LogAudio: Display: Audio Device unregistered from world 'Medium_Level6'.
+[2026.10.21-19.53.39:211][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.10.21-19.53.39:215][548]LogWorld: UWorld::CleanupWorld for NewTutorialLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.53.39:215][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.53.39:255][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.10.21-19.53.39:349][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.10.21-19.53.39:355][548]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewTutorialLevel1'.
+[2026.10.21-19.53.39:356][548]LogChaosDD: Creating Chaos Debug Draw Scene for world NewTutorialLevel1
+[2026.10.21-19.53.39:374][548]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.53.39:417][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.10.21-19.53.39:476][548]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.53.39:476][548]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
+[2026.10.21-19.53.39:639][550]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.53.43:861][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.10.21-19.53.43:865][956]LogStreaming: Display: FlushAsyncLoading(684): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.53.43:870][956]LogChaosDD: Creating Chaos Debug Draw Scene for world NewTutorialLevel2
+[2026.10.21-19.53.43:882][956]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/NewTutorialLevel2.NewTutorialLevel2
+[2026.10.21-19.53.43:882][956]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/NewTutorialLevel2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.53.44:003][956]LogWorld: UWorld::CleanupWorld for NewTutorialLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.53.44:004][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.53.44:041][956]LogAudio: Display: Audio Device unregistered from world 'NewTutorialLevel1'.
+[2026.10.21-19.53.44:045][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.10.21-19.53.44:047][956]LogWorld: UWorld::CleanupWorld for NewTutorialLevel2, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.53.44:048][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.53.44:089][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.10.21-19.53.44:177][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.10.21-19.53.44:184][956]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewTutorialLevel2'.
+[2026.10.21-19.53.44:184][956]LogChaosDD: Creating Chaos Debug Draw Scene for world NewTutorialLevel2
+[2026.10.21-19.53.44:211][956]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.53.44:253][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.10.21-19.53.44:308][956]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.53.44:309][956]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2026.10.21-19.53.44:486][958]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.53.47:008][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.10.21-19.53.47:012][184]LogStreaming: Display: FlushAsyncLoading(686): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.53.47:019][184]LogChaosDD: Creating Chaos Debug Draw Scene for world NewTutorialLevel3
+[2026.10.21-19.53.47:046][184]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/NewTutorialLevel3.NewTutorialLevel3
+[2026.10.21-19.53.47:046][184]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/NewTutorialLevel3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.53.47:159][184]LogWorld: UWorld::CleanupWorld for NewTutorialLevel2, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.53.47:160][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.53.47:196][184]LogAudio: Display: Audio Device unregistered from world 'NewTutorialLevel2'.
+[2026.10.21-19.53.47:200][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.10.21-19.53.47:203][184]LogWorld: UWorld::CleanupWorld for NewTutorialLevel3, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.53.47:204][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.53.47:239][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.10.21-19.53.47:329][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.10.21-19.53.47:341][184]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewTutorialLevel3'.
+[2026.10.21-19.53.47:341][184]LogChaosDD: Creating Chaos Debug Draw Scene for world NewTutorialLevel3
+[2026.10.21-19.53.47:395][184]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.53.47:441][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.10.21-19.53.47:500][184]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.53.47:502][184]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.813ms to complete.
+[2026.10.21-19.53.47:674][186]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.53.53:578][814]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.21-19.53.53:609][814]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.21-19.53.53:609][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.21-19.53.53:609][814]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_NewTutorialLevel3
+[2026.10.21-19.53.53:622][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012834s)
+[2026.10.21-19.53.53:622][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/NewTutorialLevel3.NewTutorialLevel3 to /Game/levels/UEDPIE_0_NewTutorialLevel3.NewTutorialLevel3 (0.012886s)
+[2026.10.21-19.53.53:660][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.10.21-19.53.53:663][814]LogChaosDD: Creating Chaos Debug Draw Scene for world NewTutorialLevel3
+[2026.10.21-19.53.53:666][814]LogPlayLevel: PIE: World Init took: (0.002223s)
+[2026.10.21-19.53.53:666][814]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2026.10.21-19.53.53:666][814]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.21-19.53.53:666][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.21-19.53.53:666][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.21-19.53.53:666][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.21-19.53.53:666][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.21-19.53.53:666][814]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.21-19.53.53:666][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.21-19.53.53:666][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.21-19.53.53:666][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.21-19.53.53:666][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.21-19.53.53:666][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.21-19.53.53:666][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.21-19.53.53:666][814]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.21-19.53.53:673][814]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.53.53:674][814]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.53.53:675][814]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.53.53:676][814]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.53.53:678][814]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.53.53:679][814]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.53.53:684][814]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.21-19.53.53:684][814]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.21-19.53.53:684][814]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.21-19.53.53:685][814]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.21-19.53.53:689][814]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.21-19.53.53:689][814]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.21-19.53.53:689][814]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.21-19.53.53:689][814]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 7X)
+[2026.10.21-19.53.53:689][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.21-19.53.53:689][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.21-19.53.53:689][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.21-19.53.53:690][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=75
+[2026.10.21-19.53.53:692][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=75
+[2026.10.21-19.53.53:694][814]LogInit: FAudioDevice initialized with ID 75.
+[2026.10.21-19.53.53:694][814]LogAudio: Display: Audio Device (ID: 75) registered with world 'NewTutorialLevel3'.
+[2026.10.21-19.53.53:694][814]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 75
+[2026.10.21-19.53.53:695][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.53.53:698][814]LogLoad: Game class is 'wizardgame_gm_C'
+[2026.10.21-19.53.53:704][814]LogWorld: Bringing World /Game/levels/UEDPIE_0_NewTutorialLevel3.NewTutorialLevel3 up for play (max tick rate 0) at 2026.10.21-20.53.53
+[2026.10.21-19.53.53:704][814]LogWorld: Bringing up level for play took: 0.005727
+[2026.10.21-19.53.53:707][814]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2026.10.21-19.53.53:708][814]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.21-19.53.53:710][814]PIE: Server logged in
+[2026.10.21-19.53.53:712][814]PIE: Play in editor total start time 0.103 seconds.
+[2026.10.21-19.53.53:815][815]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.53.55:243][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.53.55:243][958]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_NewTutorialLevel3
+[2026.10.21-19.53.55:244][958]LogWorld: UWorld::CleanupWorld for NewTutorialLevel3, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.53.55:245][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.53.55:246][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.21-19.53.55:256][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.53.55:297][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.53.55:298][958]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 75
+[2026.10.21-19.53.55:298][958]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=75, StreamState=4
+[2026.10.21-19.53.55:304][958]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.21-19.53.55:310][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.10.21-19.53.55:372][959]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2026.10.21-19.54.00:260][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.10.21-19.54.00:264][362]LogStreaming: Display: FlushAsyncLoading(688): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.54.00:279][362]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level8
+[2026.10.21-19.54.00:323][362]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/Medium_Level8.Medium_Level8
+[2026.10.21-19.54.00:323][362]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/Medium_Level8.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.54.00:496][362]LogWorld: UWorld::CleanupWorld for NewTutorialLevel3, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.00:496][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.00:539][362]LogAudio: Display: Audio Device unregistered from world 'NewTutorialLevel3'.
+[2026.10.21-19.54.00:545][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.10.21-19.54.00:548][362]LogWorld: UWorld::CleanupWorld for Medium_Level8, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.00:549][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.00:592][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.10.21-19.54.00:633][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.10.21-19.54.00:651][362]LogAudio: Display: Audio Device (ID: 1) registered with world 'Medium_Level8'.
+[2026.10.21-19.54.00:651][362]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level8
+[2026.10.21-19.54.00:659][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_2.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:659][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_5.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:659][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_6.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:659][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_7.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:661][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_1.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=7.300 Y=2.812 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:699][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_2.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:699][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_2.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:700][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_2.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:701][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_5.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:702][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_5.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:702][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_5.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:702][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_6.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:703][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_6.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:703][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_6.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:704][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_7.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:705][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_7.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:705][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_7.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=1.250 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:710][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_1.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=7.300 Y=2.812 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:711][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_1.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=7.300 Y=2.812 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:711][362]LogPhysics: Warning: Scale for /Game/levels/Medium_Level8.Medium_Level8:PersistentLevel.waterhazard_bp_C_1.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=7.300 Y=2.812 Z=0.000 Package:/Game/levels/Medium_Level8
+[2026.10.21-19.54.00:731][362]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.54.00:781][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.10.21-19.54.00:838][362]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.54.00:839][362]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.449ms to complete.
+[2026.10.21-19.54.00:959][363]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.54.05:524][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.10.21-19.54.05:528][754]LogStreaming: Display: FlushAsyncLoading(690): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.54.05:539][754]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level7
+[2026.10.21-19.54.05:575][754]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/Medium_Level7.Medium_Level7
+[2026.10.21-19.54.05:575][754]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/Medium_Level7.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.54.05:703][754]LogWorld: UWorld::CleanupWorld for Medium_Level8, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.05:703][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.05:759][754]LogAudio: Display: Audio Device unregistered from world 'Medium_Level8'.
+[2026.10.21-19.54.05:767][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2026.10.21-19.54.05:772][754]LogWorld: UWorld::CleanupWorld for Medium_Level7, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.05:772][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.05:813][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.10.21-19.54.05:912][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.10.21-19.54.05:927][754]LogAudio: Display: Audio Device (ID: 1) registered with world 'Medium_Level7'.
+[2026.10.21-19.54.05:927][754]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level7
+[2026.10.21-19.54.05:930][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_2.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=52.734 Y=2.344 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:931][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_0.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=5.859 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:931][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_1.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=3.750 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:931][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_3.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=5.493 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:944][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_2.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=52.734 Y=2.344 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:945][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_2.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=52.734 Y=2.344 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:945][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_2.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=52.734 Y=2.344 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:946][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_0.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=5.859 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:947][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_0.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=5.859 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:947][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_0.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=5.859 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:947][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_1.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=3.750 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:948][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_1.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=3.750 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:948][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_1.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=3.750 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:951][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_3.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=5.493 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:952][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_3.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=5.493 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:952][754]LogPhysics: Warning: Scale for /Game/levels/Medium_Level7.Medium_Level7:PersistentLevel.waterhazard_bp_C_3.ice bridge has a component set to zero, which will result in a bad body instance. Scale:X=5.493 Y=2.500 Z=0.000 Package:/Game/levels/Medium_Level7
+[2026.10.21-19.54.05:997][754]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.54.06:045][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.10.21-19.54.06:102][754]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.54.06:104][754]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.361ms to complete.
+[2026.10.21-19.54.06:283][756]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.54.11:129][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.10.21-19.54.11:134][152]LogStreaming: Display: FlushAsyncLoading(692): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.54.11:146][152]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level6
+[2026.10.21-19.54.11:191][152]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/Medium_Level6.Medium_Level6
+[2026.10.21-19.54.11:191][152]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/Medium_Level6.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.54.11:360][152]LogWorld: UWorld::CleanupWorld for Medium_Level7, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.11:360][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.11:406][152]LogAudio: Display: Audio Device unregistered from world 'Medium_Level7'.
+[2026.10.21-19.54.11:412][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.10.21-19.54.11:416][152]LogWorld: UWorld::CleanupWorld for Medium_Level6, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.11:417][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.11:458][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.10.21-19.54.11:501][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.10.21-19.54.11:516][152]LogAudio: Display: Audio Device (ID: 1) registered with world 'Medium_Level6'.
+[2026.10.21-19.54.11:516][152]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level6
+[2026.10.21-19.54.11:596][152]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.54.11:644][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.10.21-19.54.11:702][152]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.54.11:704][152]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.379ms to complete.
+[2026.10.21-19.54.11:880][154]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.54.16:793][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.10.21-19.54.16:798][539]LogStreaming: Display: FlushAsyncLoading(694): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.54.16:811][539]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level5
+[2026.10.21-19.54.16:850][539]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/Medium_Level5.Medium_Level5
+[2026.10.21-19.54.16:850][539]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/Medium_Level5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.54.16:968][539]LogWorld: UWorld::CleanupWorld for Medium_Level6, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.16:968][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.17:011][539]LogAudio: Display: Audio Device unregistered from world 'Medium_Level6'.
+[2026.10.21-19.54.17:018][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.10.21-19.54.17:022][539]LogWorld: UWorld::CleanupWorld for Medium_Level5, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.17:023][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.17:067][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.10.21-19.54.17:166][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.10.21-19.54.17:181][539]LogAudio: Display: Audio Device (ID: 1) registered with world 'Medium_Level5'.
+[2026.10.21-19.54.17:181][539]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level5
+[2026.10.21-19.54.17:253][539]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.54.17:301][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.10.21-19.54.17:358][539]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.54.17:361][539]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.69ms to complete.
+[2026.10.21-19.54.17:543][541]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.54.23:726][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.10.21-19.54.23:731][951]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.54.23:741][951]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level4
+[2026.10.21-19.54.23:767][951]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/Medium_Level4.Medium_Level4
+[2026.10.21-19.54.23:768][951]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/Medium_Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.54.23:886][951]LogWorld: UWorld::CleanupWorld for Medium_Level5, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.23:886][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.23:933][951]LogAudio: Display: Audio Device unregistered from world 'Medium_Level5'.
+[2026.10.21-19.54.23:940][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.10.21-19.54.23:943][951]LogWorld: UWorld::CleanupWorld for Medium_Level4, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.23:944][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.23:986][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.10.21-19.54.24:078][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.10.21-19.54.24:091][951]LogAudio: Display: Audio Device (ID: 1) registered with world 'Medium_Level4'.
+[2026.10.21-19.54.24:091][951]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level4
+[2026.10.21-19.54.24:142][951]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.54.24:186][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.10.21-19.54.24:242][951]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.54.24:244][951]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.714ms to complete.
+[2026.10.21-19.54.24:423][953]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.54.43:657][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.10.21-19.54.43:663][444]LogStreaming: Display: FlushAsyncLoading(698): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.54.43:675][444]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level5
+[2026.10.21-19.54.43:714][444]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/Medium_Level5.Medium_Level5
+[2026.10.21-19.54.43:714][444]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/Medium_Level5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.54.43:830][444]LogWorld: UWorld::CleanupWorld for Medium_Level4, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.43:830][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.43:873][444]LogAudio: Display: Audio Device unregistered from world 'Medium_Level4'.
+[2026.10.21-19.54.43:879][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.10.21-19.54.43:882][444]LogWorld: UWorld::CleanupWorld for Medium_Level5, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.43:883][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.43:926][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.10.21-19.54.44:012][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.10.21-19.54.44:027][444]LogAudio: Display: Audio Device (ID: 1) registered with world 'Medium_Level5'.
+[2026.10.21-19.54.44:027][444]LogChaosDD: Creating Chaos Debug Draw Scene for world Medium_Level5
+[2026.10.21-19.54.44:101][444]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.54.44:149][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.10.21-19.54.44:205][444]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.54.44:207][444]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.355ms to complete.
+[2026.10.21-19.54.44:377][446]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.54.47:777][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2026.10.21-19.54.47:781][765]LogStreaming: Display: FlushAsyncLoading(700): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.54.47:791][765]LogChaosDD: Creating Chaos Debug Draw Scene for world NewTutorialLevel3
+[2026.10.21-19.54.47:818][765]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/NewTutorialLevel3.NewTutorialLevel3
+[2026.10.21-19.54.47:818][765]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/NewTutorialLevel3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.54.47:935][765]LogWorld: UWorld::CleanupWorld for Medium_Level5, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.47:935][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.47:978][765]LogAudio: Display: Audio Device unregistered from world 'Medium_Level5'.
+[2026.10.21-19.54.47:985][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.10.21-19.54.47:989][765]LogWorld: UWorld::CleanupWorld for NewTutorialLevel3, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.47:990][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.48:029][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.10.21-19.54.48:124][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.10.21-19.54.48:135][765]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewTutorialLevel3'.
+[2026.10.21-19.54.48:135][765]LogChaosDD: Creating Chaos Debug Draw Scene for world NewTutorialLevel3
+[2026.10.21-19.54.48:186][765]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.54.48:232][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.10.21-19.54.48:289][765]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.54.48:291][765]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.369ms to complete.
+[2026.10.21-19.54.48:474][767]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.54.49:652][889]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.21-19.54.49:683][889]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.21-19.54.49:684][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.21-19.54.49:684][889]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_NewTutorialLevel3
+[2026.10.21-19.54.49:697][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013243s)
+[2026.10.21-19.54.49:697][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/NewTutorialLevel3.NewTutorialLevel3 to /Game/levels/UEDPIE_0_NewTutorialLevel3.NewTutorialLevel3 (0.013285s)
+[2026.10.21-19.54.49:734][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2026.10.21-19.54.49:737][889]LogChaosDD: Creating Chaos Debug Draw Scene for world NewTutorialLevel3
+[2026.10.21-19.54.49:739][889]LogPlayLevel: PIE: World Init took: (0.002231s)
+[2026.10.21-19.54.49:739][889]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2026.10.21-19.54.49:739][889]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.21-19.54.49:739][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.21-19.54.49:739][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.21-19.54.49:739][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.21-19.54.49:739][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.21-19.54.49:739][889]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.21-19.54.49:739][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.21-19.54.49:739][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.21-19.54.49:739][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.21-19.54.49:739][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.21-19.54.49:739][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.21-19.54.49:739][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.21-19.54.49:739][889]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.21-19.54.49:746][889]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.54.49:748][889]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.54.49:750][889]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.54.49:751][889]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.54.49:752][889]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.54.49:753][889]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.54.49:758][889]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.21-19.54.49:758][889]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.21-19.54.49:758][889]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.21-19.54.49:759][889]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.21-19.54.49:762][889]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.21-19.54.49:762][889]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.21-19.54.49:762][889]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.21-19.54.49:762][889]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 7X)
+[2026.10.21-19.54.49:762][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.21-19.54.49:762][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.21-19.54.49:762][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.21-19.54.49:763][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=76
+[2026.10.21-19.54.49:765][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=76
+[2026.10.21-19.54.49:767][889]LogInit: FAudioDevice initialized with ID 76.
+[2026.10.21-19.54.49:767][889]LogAudio: Display: Audio Device (ID: 76) registered with world 'NewTutorialLevel3'.
+[2026.10.21-19.54.49:767][889]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 76
+[2026.10.21-19.54.49:768][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.54.49:771][889]LogLoad: Game class is 'wizardgame_gm_C'
+[2026.10.21-19.54.49:776][889]LogWorld: Bringing World /Game/levels/UEDPIE_0_NewTutorialLevel3.NewTutorialLevel3 up for play (max tick rate 0) at 2026.10.21-20.54.49
+[2026.10.21-19.54.49:776][889]LogWorld: Bringing up level for play took: 0.004909
+[2026.10.21-19.54.49:779][889]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2026.10.21-19.54.49:779][889]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.21-19.54.49:781][889]PIE: Server logged in
+[2026.10.21-19.54.49:783][889]PIE: Play in editor total start time 0.1 seconds.
+[2026.10.21-19.54.49:879][890]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.54.51:573][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.54.51:573][ 58]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_NewTutorialLevel3
+[2026.10.21-19.54.51:574][ 58]LogWorld: UWorld::CleanupWorld for NewTutorialLevel3, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.51:575][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.51:576][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.21-19.54.51:585][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.51:623][ 58]LogAudio: Display: Audio Device unregistered from world 'NewTutorialLevel3'.
+[2026.10.21-19.54.51:623][ 58]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 76
+[2026.10.21-19.54.51:624][ 58]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=76, StreamState=4
+[2026.10.21-19.54.51:631][ 58]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.21-19.54.51:634][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.54.51:639][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.10.21-19.54.51:702][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2026.10.21-19.54.55:844][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2026.10.21-19.54.55:849][400]LogStreaming: Display: FlushAsyncLoading(702): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.54.55:861][400]LogChaosDD: Creating Chaos Debug Draw Scene for world titlelevel
+[2026.10.21-19.54.55:864][400]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/titlelevel.titlelevel
+[2026.10.21-19.54.55:864][400]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/titlelevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.54.55:978][400]LogWorld: UWorld::CleanupWorld for NewTutorialLevel3, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.55:978][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.56:019][400]LogAudio: Display: Audio Device unregistered from world 'NewTutorialLevel3'.
+[2026.10.21-19.54.56:025][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.10.21-19.54.56:028][400]LogWorld: UWorld::CleanupWorld for titlelevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.54.56:028][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.54.56:069][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.10.21-19.54.56:159][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.10.21-19.54.56:163][400]LogAudio: Display: Audio Device (ID: 1) registered with world 'titlelevel'.
+[2026.10.21-19.54.56:163][400]LogChaosDD: Creating Chaos Debug Draw Scene for world titlelevel
+[2026.10.21-19.54.56:175][400]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.54.56:217][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.10.21-19.54.56:274][400]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.54.56:274][400]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2026.10.21-19.54.56:431][402]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.54.59:017][673]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.21-19.54.59:048][673]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.21-19.54.59:048][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.21-19.54.59:048][673]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.54.59:050][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001918s)
+[2026.10.21-19.54.59:050][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/titlelevel.titlelevel to /Game/levels/UEDPIE_0_titlelevel.titlelevel (0.001968s)
+[2026.10.21-19.54.59:088][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.10.21-19.54.59:092][673]LogChaosDD: Creating Chaos Debug Draw Scene for world titlelevel
+[2026.10.21-19.54.59:094][673]LogPlayLevel: PIE: World Init took: (0.002170s)
+[2026.10.21-19.54.59:094][673]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2026.10.21-19.54.59:094][673]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.21-19.54.59:094][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.21-19.54.59:094][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.21-19.54.59:094][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.21-19.54.59:094][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.21-19.54.59:094][673]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.21-19.54.59:094][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.21-19.54.59:094][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.21-19.54.59:094][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.21-19.54.59:094][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.21-19.54.59:094][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.21-19.54.59:094][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.21-19.54.59:094][673]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.21-19.54.59:101][673]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.54.59:102][673]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.54.59:104][673]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.54.59:105][673]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.54.59:106][673]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.54.59:107][673]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.54.59:112][673]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.21-19.54.59:112][673]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.21-19.54.59:112][673]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.21-19.54.59:114][673]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.21-19.54.59:117][673]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.21-19.54.59:117][673]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.21-19.54.59:117][673]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.21-19.54.59:117][673]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 7X)
+[2026.10.21-19.54.59:117][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.21-19.54.59:117][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.21-19.54.59:117][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.21-19.54.59:118][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2026.10.21-19.54.59:120][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2026.10.21-19.54.59:122][673]LogInit: FAudioDevice initialized with ID 77.
+[2026.10.21-19.54.59:122][673]LogAudio: Display: Audio Device (ID: 77) registered with world 'titlelevel'.
+[2026.10.21-19.54.59:122][673]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2026.10.21-19.54.59:123][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.54.59:126][673]LogLoad: Game class is 'wizardgame_gm_C'
+[2026.10.21-19.54.59:126][673]LogWorld: Bringing World /Game/levels/UEDPIE_0_titlelevel.titlelevel up for play (max tick rate 0) at 2026.10.21-20.54.59
+[2026.10.21-19.54.59:127][673]LogWorld: Bringing up level for play took: 0.000722
+[2026.10.21-19.54.59:129][673]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2026.10.21-19.54.59:130][673]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.21-19.54.59:132][673]PIE: Server logged in
+[2026.10.21-19.54.59:134][673]PIE: Play in editor total start time 0.086 seconds.
+[2026.10.21-19.54.59:137][673]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.21-19.54.59:138][673]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.21-19.54.59:138][673]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.21-19.54.59:138][673]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.21-19.54.59:243][674]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.55.01:053][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.01:053][846]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.55.01:053][846]LogWorld: UWorld::CleanupWorld for titlelevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.55.01:053][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.01:054][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.21-19.55.01:063][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.01:100][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.01:100][846]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2026.10.21-19.55.01:100][846]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=77, StreamState=4
+[2026.10.21-19.55.01:107][846]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.21-19.55.01:114][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.10.21-19.55.01:172][847]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2026.10.21-19.55.04:295][117]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.21-19.55.04:325][117]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.21-19.55.04:325][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.21-19.55.04:326][117]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.55.04:327][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002120s)
+[2026.10.21-19.55.04:327][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/titlelevel.titlelevel to /Game/levels/UEDPIE_0_titlelevel.titlelevel (0.002162s)
+[2026.10.21-19.55.04:371][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.10.21-19.55.04:374][117]LogChaosDD: Creating Chaos Debug Draw Scene for world titlelevel
+[2026.10.21-19.55.04:377][117]LogPlayLevel: PIE: World Init took: (0.002572s)
+[2026.10.21-19.55.04:377][117]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2026.10.21-19.55.04:377][117]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.21-19.55.04:377][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.21-19.55.04:377][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.21-19.55.04:377][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.21-19.55.04:377][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.21-19.55.04:377][117]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.21-19.55.04:377][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.21-19.55.04:377][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.21-19.55.04:377][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.21-19.55.04:377][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.21-19.55.04:377][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.21-19.55.04:377][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.21-19.55.04:377][117]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.21-19.55.04:384][117]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.04:385][117]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.04:387][117]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.04:388][117]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.04:389][117]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.04:391][117]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.04:396][117]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.21-19.55.04:396][117]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.21-19.55.04:396][117]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.21-19.55.04:398][117]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.21-19.55.04:401][117]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.21-19.55.04:401][117]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.21-19.55.04:401][117]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.21-19.55.04:401][117]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 7X)
+[2026.10.21-19.55.04:401][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.21-19.55.04:401][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.21-19.55.04:401][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.21-19.55.04:402][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2026.10.21-19.55.04:405][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2026.10.21-19.55.04:407][117]LogInit: FAudioDevice initialized with ID 78.
+[2026.10.21-19.55.04:407][117]LogAudio: Display: Audio Device (ID: 78) registered with world 'titlelevel'.
+[2026.10.21-19.55.04:407][117]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2026.10.21-19.55.04:407][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.04:410][117]LogLoad: Game class is 'wizardgame_gm_C'
+[2026.10.21-19.55.04:412][117]LogWorld: Bringing World /Game/levels/UEDPIE_0_titlelevel.titlelevel up for play (max tick rate 0) at 2026.10.21-20.55.04
+[2026.10.21-19.55.04:412][117]LogWorld: Bringing up level for play took: 0.000718
+[2026.10.21-19.55.04:415][117]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2026.10.21-19.55.04:416][117]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.21-19.55.04:417][117]PIE: Server logged in
+[2026.10.21-19.55.04:419][117]PIE: Play in editor total start time 0.094 seconds.
+[2026.10.21-19.55.04:421][117]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.21-19.55.04:421][117]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.21-19.55.04:421][117]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.21-19.55.04:421][117]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.21-19.55.04:538][118]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.55.10:393][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.10:394][805]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.55.10:394][805]LogWorld: UWorld::CleanupWorld for titlelevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.55.10:394][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.10:395][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.21-19.55.10:405][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.10:439][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.10:440][805]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2026.10.21-19.55.10:440][805]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=78, StreamState=4
+[2026.10.21-19.55.10:446][805]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.21-19.55.10:452][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.10.21-19.55.10:539][806]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2026.10.21-19.55.11:602][913]Cmd: TRANSACTION UNDO
+[2026.10.21-19.55.11:602][913]LogEditorTransaction: Undo Transform
+[2026.10.21-19.55.12:468][958]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.21-19.55.12:499][958]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.21-19.55.12:499][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.21-19.55.12:499][958]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.55.12:501][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001953s)
+[2026.10.21-19.55.12:501][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/titlelevel.titlelevel to /Game/levels/UEDPIE_0_titlelevel.titlelevel (0.001995s)
+[2026.10.21-19.55.12:538][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.10.21-19.55.12:542][958]LogChaosDD: Creating Chaos Debug Draw Scene for world titlelevel
+[2026.10.21-19.55.12:544][958]LogPlayLevel: PIE: World Init took: (0.002199s)
+[2026.10.21-19.55.12:544][958]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2026.10.21-19.55.12:544][958]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.21-19.55.12:544][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.21-19.55.12:544][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.21-19.55.12:544][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.21-19.55.12:544][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.21-19.55.12:544][958]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.21-19.55.12:544][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.21-19.55.12:544][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.21-19.55.12:544][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.21-19.55.12:544][958]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.21-19.55.12:544][958]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.21-19.55.12:544][958]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.21-19.55.12:544][958]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.21-19.55.12:551][958]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.12:552][958]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.12:554][958]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.12:555][958]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.12:556][958]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.12:557][958]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.12:562][958]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.21-19.55.12:562][958]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.21-19.55.12:562][958]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.21-19.55.12:563][958]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.21-19.55.12:567][958]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.21-19.55.12:567][958]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.21-19.55.12:567][958]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.21-19.55.12:567][958]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 7X)
+[2026.10.21-19.55.12:567][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.21-19.55.12:567][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.21-19.55.12:567][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.21-19.55.12:568][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=79
+[2026.10.21-19.55.12:570][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2026.10.21-19.55.12:571][958]LogInit: FAudioDevice initialized with ID 79.
+[2026.10.21-19.55.12:571][958]LogAudio: Display: Audio Device (ID: 79) registered with world 'titlelevel'.
+[2026.10.21-19.55.12:571][958]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 79
+[2026.10.21-19.55.12:573][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.12:576][958]LogLoad: Game class is 'wizardgame_gm_C'
+[2026.10.21-19.55.12:577][958]LogWorld: Bringing World /Game/levels/UEDPIE_0_titlelevel.titlelevel up for play (max tick rate 0) at 2026.10.21-20.55.12
+[2026.10.21-19.55.12:577][958]LogWorld: Bringing up level for play took: 0.000671
+[2026.10.21-19.55.12:579][958]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2026.10.21-19.55.12:580][958]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.21-19.55.12:582][958]PIE: Server logged in
+[2026.10.21-19.55.12:583][958]PIE: Play in editor total start time 0.085 seconds.
+[2026.10.21-19.55.12:585][958]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.21-19.55.12:585][958]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.21-19.55.12:585][958]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.21-19.55.12:585][958]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.21-19.55.12:688][959]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.55.13:883][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.13:883][ 86]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.55.13:883][ 86]LogWorld: UWorld::CleanupWorld for titlelevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.55.13:884][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.13:885][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.21-19.55.13:894][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.13:934][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.13:934][ 86]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 79
+[2026.10.21-19.55.13:935][ 86]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=79, StreamState=4
+[2026.10.21-19.55.13:941][ 86]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.21-19.55.13:947][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.10.21-19.55.14:047][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2026.10.21-19.55.19:124][554]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.21-19.55.19:155][554]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.21-19.55.19:155][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.21-19.55.19:155][554]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.55.19:157][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001900s)
+[2026.10.21-19.55.19:157][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/titlelevel.titlelevel to /Game/levels/UEDPIE_0_titlelevel.titlelevel (0.001942s)
+[2026.10.21-19.55.19:195][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.10.21-19.55.19:200][554]LogChaosDD: Creating Chaos Debug Draw Scene for world titlelevel
+[2026.10.21-19.55.19:202][554]LogPlayLevel: PIE: World Init took: (0.002381s)
+[2026.10.21-19.55.19:202][554]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2026.10.21-19.55.19:202][554]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.21-19.55.19:202][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.21-19.55.19:202][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.21-19.55.19:202][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.21-19.55.19:202][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.21-19.55.19:202][554]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.21-19.55.19:202][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.21-19.55.19:202][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.21-19.55.19:202][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.21-19.55.19:202][554]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.21-19.55.19:202][554]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.21-19.55.19:202][554]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.21-19.55.19:202][554]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.21-19.55.19:209][554]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.19:210][554]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.19:212][554]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.19:213][554]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.19:214][554]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.19:215][554]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.19:220][554]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.21-19.55.19:220][554]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.21-19.55.19:220][554]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.21-19.55.19:221][554]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.21-19.55.19:224][554]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.21-19.55.19:224][554]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.21-19.55.19:224][554]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.21-19.55.19:224][554]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 7X)
+[2026.10.21-19.55.19:224][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.21-19.55.19:225][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.21-19.55.19:225][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.21-19.55.19:225][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2026.10.21-19.55.19:227][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2026.10.21-19.55.19:228][554]LogInit: FAudioDevice initialized with ID 80.
+[2026.10.21-19.55.19:228][554]LogAudio: Display: Audio Device (ID: 80) registered with world 'titlelevel'.
+[2026.10.21-19.55.19:228][554]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 80
+[2026.10.21-19.55.19:229][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.19:233][554]LogLoad: Game class is 'wizardgame_gm_C'
+[2026.10.21-19.55.19:234][554]LogWorld: Bringing World /Game/levels/UEDPIE_0_titlelevel.titlelevel up for play (max tick rate 0) at 2026.10.21-20.55.19
+[2026.10.21-19.55.19:234][554]LogWorld: Bringing up level for play took: 0.000732
+[2026.10.21-19.55.19:237][554]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2026.10.21-19.55.19:237][554]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.21-19.55.19:239][554]PIE: Server logged in
+[2026.10.21-19.55.19:241][554]PIE: Play in editor total start time 0.087 seconds.
+[2026.10.21-19.55.19:243][554]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.21-19.55.19:243][554]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.21-19.55.19:243][554]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.21-19.55.19:243][554]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.21-19.55.19:350][555]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.55.29:822][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.29:822][791]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.55.29:822][791]LogWorld: UWorld::CleanupWorld for titlelevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.55.29:823][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.29:824][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.21-19.55.29:834][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.29:868][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.29:868][791]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 80
+[2026.10.21-19.55.29:868][791]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=80, StreamState=4
+[2026.10.21-19.55.29:876][791]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.21-19.55.29:882][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.10.21-19.55.29:983][792]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2026.10.21-19.55.32:334][  4]Cmd: DELETE
+[2026.10.21-19.55.32:334][  4]Cmd: ACTOR DELETE
+[2026.10.21-19.55.32:337][  4]LogEditorActor: Deleted Actor: DirectionalLight
+[2026.10.21-19.55.32:375][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.10.21-19.55.32:379][  4]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2026.10.21-19.55.33:091][ 74]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.21-19.55.33:123][ 74]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.21-19.55.33:123][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.21-19.55.33:123][ 74]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.55.33:125][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001762s)
+[2026.10.21-19.55.33:125][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/titlelevel.titlelevel to /Game/levels/UEDPIE_0_titlelevel.titlelevel (0.001801s)
+[2026.10.21-19.55.33:163][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.10.21-19.55.33:166][ 74]LogChaosDD: Creating Chaos Debug Draw Scene for world titlelevel
+[2026.10.21-19.55.33:168][ 74]LogPlayLevel: PIE: World Init took: (0.002216s)
+[2026.10.21-19.55.33:168][ 74]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2026.10.21-19.55.33:168][ 74]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.21-19.55.33:168][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.21-19.55.33:169][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.21-19.55.33:169][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.21-19.55.33:169][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.21-19.55.33:169][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.21-19.55.33:169][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.21-19.55.33:169][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.21-19.55.33:169][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.21-19.55.33:169][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.21-19.55.33:169][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.21-19.55.33:169][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.21-19.55.33:169][ 74]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.21-19.55.33:176][ 74]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.33:177][ 74]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.33:179][ 74]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.33:180][ 74]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.33:181][ 74]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.33:182][ 74]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.33:186][ 74]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.21-19.55.33:186][ 74]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.21-19.55.33:187][ 74]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.21-19.55.33:188][ 74]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.21-19.55.33:191][ 74]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.21-19.55.33:191][ 74]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.21-19.55.33:191][ 74]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.21-19.55.33:191][ 74]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 7X)
+[2026.10.21-19.55.33:192][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.21-19.55.33:192][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.21-19.55.33:192][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.21-19.55.33:192][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2026.10.21-19.55.33:194][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2026.10.21-19.55.33:197][ 74]LogInit: FAudioDevice initialized with ID 81.
+[2026.10.21-19.55.33:197][ 74]LogAudio: Display: Audio Device (ID: 81) registered with world 'titlelevel'.
+[2026.10.21-19.55.33:197][ 74]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 81
+[2026.10.21-19.55.33:198][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.33:201][ 74]LogLoad: Game class is 'wizardgame_gm_C'
+[2026.10.21-19.55.33:202][ 74]LogWorld: Bringing World /Game/levels/UEDPIE_0_titlelevel.titlelevel up for play (max tick rate 0) at 2026.10.21-20.55.33
+[2026.10.21-19.55.33:202][ 74]LogWorld: Bringing up level for play took: 0.000690
+[2026.10.21-19.55.33:204][ 74]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2026.10.21-19.55.33:205][ 74]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.21-19.55.33:206][ 74]PIE: Server logged in
+[2026.10.21-19.55.33:208][ 74]PIE: Play in editor total start time 0.086 seconds.
+[2026.10.21-19.55.33:209][ 74]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.21-19.55.33:209][ 74]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.21-19.55.33:209][ 74]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.21-19.55.33:209][ 74]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.21-19.55.33:253][ 75]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.55.35:752][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.35:753][363]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.55.35:753][363]LogWorld: UWorld::CleanupWorld for titlelevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.55.35:753][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.35:754][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.21-19.55.35:762][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.35:802][363]LogAudio: Display: Audio Device unregistered from world 'titlelevel'.
+[2026.10.21-19.55.35:802][363]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 81
+[2026.10.21-19.55.35:802][363]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=81, StreamState=4
+[2026.10.21-19.55.35:809][363]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.21-19.55.35:811][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.35:814][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.10.21-19.55.35:872][364]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2026.10.21-19.55.37:002][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.10.21-19.55.37:679][476]LogSlate: Window 'Save Content' being destroyed
+[2026.10.21-19.55.37:687][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.21-19.55.37:740][476]LogFileHelpers: Saving Map: /Game/levels/titlelevel
+[2026.10.21-19.55.37:740][476]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/titlelevel] ([1] browsable assets)...
+[2026.10.21-19.55.37:740][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/titlelevel]
+[2026.10.21-19.55.37:889][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.21-19.55.37:902][476]LogSavePackage: Moving output files for package: /Game/levels/titlelevel
+[2026.10.21-19.55.37:904][476]LogSavePackage: Moving '../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Saved/titlelevel2574BB94424A90ED1D5B109A0D63288F.tmp' to '../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/titlelevel.umap'
+[2026.10.21-19.55.37:986][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 299.342 ms (total: 13.4 sec)
+[2026.10.21-19.55.38:040][476]LogContentValidation: Enabled validators:
+[2026.10.21-19.55.38:040][476]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.21-19.55.38:040][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.21-19.55.38:040][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.21-19.55.38:040][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.21-19.55.38:040][476]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.21-19.55.38:040][476]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.21-19.55.38:040][476]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.21-19.55.38:040][476]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.21-19.55.38:040][476]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.21-19.55.38:040][476]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.21-19.55.38:040][476]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.21-19.55.38:040][476]AssetCheck: /Game/levels/titlelevel Validating asset
+[2026.10.21-19.55.38:040][476]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.21-19.55.38:040][476]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.21-19.55.38:040][476]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.21-19.55.38:040][476]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.21-19.55.38:040][476]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.21-19.55.38:040][476]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.21-19.55.38:040][476]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.21-19.55.38:040][476]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.21-19.55.38:040][476]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.21-19.55.38:040][476]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.21-19.55.38:057][476]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.21-19.55.38:292][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.10.21-19.55.38:295][492]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/titlelevel.titlelevel
+[2026.10.21-19.55.38:295][492]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/OneDrive/Desktop/GitHub/Year-2-EAEG-Game-1-/exp_wizard_game/Content/levels/titlelevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.21-19.55.38:410][492]LogWorld: UWorld::CleanupWorld for titlelevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.55.38:410][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.38:446][492]LogAudio: Display: Audio Device unregistered from world 'titlelevel'.
+[2026.10.21-19.55.38:448][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.10.21-19.55.38:508][492]LogStreaming: Display: FlushAsyncLoading(704): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.55.38:510][492]LogAudio: Display: Audio Device (ID: 1) registered with world 'titlelevel'.
+[2026.10.21-19.55.38:510][492]LogChaosDD: Creating Chaos Debug Draw Scene for world titlelevel
+[2026.10.21-19.55.38:523][492]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.21-19.55.38:562][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2026.10.21-19.55.38:621][492]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.21-19.55.38:621][492]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2026.10.21-19.55.38:717][493]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.55.40:652][702]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.21-19.55.40:683][702]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.21-19.55.40:683][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.21-19.55.40:683][702]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.55.40:685][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001780s)
+[2026.10.21-19.55.40:685][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/titlelevel.titlelevel to /Game/levels/UEDPIE_0_titlelevel.titlelevel (0.001821s)
+[2026.10.21-19.55.40:721][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.10.21-19.55.40:723][702]LogChaosDD: Creating Chaos Debug Draw Scene for world titlelevel
+[2026.10.21-19.55.40:726][702]LogPlayLevel: PIE: World Init took: (0.002059s)
+[2026.10.21-19.55.40:726][702]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2026.10.21-19.55.40:726][702]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.21-19.55.40:726][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.21-19.55.40:726][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.21-19.55.40:726][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.21-19.55.40:726][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.21-19.55.40:726][702]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.21-19.55.40:726][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.21-19.55.40:726][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.21-19.55.40:726][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.21-19.55.40:726][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.21-19.55.40:726][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.21-19.55.40:726][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.21-19.55.40:726][702]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.21-19.55.40:733][702]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.40:734][702]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.40:735][702]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.40:736][702]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.40:738][702]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (3- Arctis Nova 7X)'
+[2026.10.21-19.55.40:739][702]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (3- Arctis Nova 7X)'
+[2026.10.21-19.55.40:744][702]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.21-19.55.40:744][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.21-19.55.40:744][702]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.21-19.55.40:745][702]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.21-19.55.40:748][702]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.21-19.55.40:748][702]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.21-19.55.40:748][702]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.21-19.55.40:748][702]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 7X)
+[2026.10.21-19.55.40:749][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.21-19.55.40:749][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.21-19.55.40:749][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.21-19.55.40:749][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2026.10.21-19.55.40:751][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2026.10.21-19.55.40:754][702]LogInit: FAudioDevice initialized with ID 82.
+[2026.10.21-19.55.40:754][702]LogAudio: Display: Audio Device (ID: 82) registered with world 'titlelevel'.
+[2026.10.21-19.55.40:754][702]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 82
+[2026.10.21-19.55.40:754][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.40:757][702]LogLoad: Game class is 'wizardgame_gm_C'
+[2026.10.21-19.55.40:758][702]LogWorld: Bringing World /Game/levels/UEDPIE_0_titlelevel.titlelevel up for play (max tick rate 0) at 2026.10.21-20.55.40
+[2026.10.21-19.55.40:758][702]LogWorld: Bringing up level for play took: 0.000667
+[2026.10.21-19.55.40:760][702]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2026.10.21-19.55.40:761][702]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.21-19.55.40:762][702]PIE: Server logged in
+[2026.10.21-19.55.40:764][702]PIE: Play in editor total start time 0.082 seconds.
+[2026.10.21-19.55.40:765][702]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(976)]!
+[2026.10.21-19.55.40:765][702]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.10.21-19.55.40:765][702]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.10.21-19.55.40:766][702]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.10.21-19.55.40:807][702]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.55.41:486][774]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.10.21-19.55.41:486][774]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.10.21-19.55.41:488][774]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/levels/NewTutorialLevel1"
+[2026.10.21-19.55.41:488][774]LogNet: Browse: /Game/levels/NewTutorialLevel1
+[2026.10.21-19.55.41:490][774]LogLoad: LoadMap: /Game/levels/NewTutorialLevel1
+[2026.10.21-19.55.41:490][774]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_titlelevel
+[2026.10.21-19.55.41:492][774]LogWorld: UWorld::CleanupWorld for titlelevel, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.55.41:492][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.41:579][774]LogAudio: Display: Audio Device unregistered from world 'titlelevel'.
+[2026.10.21-19.55.41:582][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.10.21-19.55.41:587][774]LogStreaming: Display: FlushAsyncLoading(705): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.21-19.55.41:592][774]LogAudio: Display: Audio Device (ID: 82) registered with world 'NewTutorialLevel1'.
+[2026.10.21-19.55.41:592][774]LogChaosDD: Creating Chaos Debug Draw Scene for world NewTutorialLevel1
+[2026.10.21-19.55.41:594][774]LogPlayLevel: PIE: World Init took: (0.002047s)
+[2026.10.21-19.55.41:594][774]LogLoad: Game class is 'wizardgame_gm_C'
+[2026.10.21-19.55.41:598][774]LogWorld: Bringing World /Game/levels/UEDPIE_0_NewTutorialLevel1.NewTutorialLevel1 up for play (max tick rate 0) at 2026.10.21-20.55.41
+[2026.10.21-19.55.41:599][774]LogWorld: Bringing up level for play took: 0.004770
+[2026.10.21-19.55.41:601][774]LogLoad: Took 0.111554 seconds to LoadMap(/Game/levels/NewTutorialLevel1)
+[2026.10.21-19.55.41:601][774]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/levels/NewTutorialLevel1
+[2026.10.21-19.55.41:691][775]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.21-19.55.43:693][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.43:693][971]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_NewTutorialLevel1
+[2026.10.21-19.55.43:693][971]LogWorld: UWorld::CleanupWorld for NewTutorialLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.10.21-19.55.43:693][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.43:695][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.21-19.55.43:704][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.21-19.55.43:745][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.21-19.55.43:745][971]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 82
+[2026.10.21-19.55.43:745][971]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=82, StreamState=4
+[2026.10.21-19.55.43:752][971]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.21-19.55.43:758][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.10.21-19.55.43:817][972]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2026.10.21-19.55.52:235][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
